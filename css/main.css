@@ -1,0 +1,39 @@
+html {
+	background-color: #604e68;
+}
+
+h1 h2 {
+	font-weight: normal;
+	font-size: 5rem;
+	font-style: italic;
+	text-decoration: underline;
+	font-family: "Lato", sans-serif;, sans serif;
+
+}
+
+ol {
+		list-style-type: none;
+		/*
+		decimal, circle, lower-roman, disc, square, lower-alpha
+		*/
+		padding: 0;
+		/* padding 0 gets rid of the indentation on the side
+		*/
+		line-height: 1.5;
+}
+
+li {
+		font-weight: bold;
+}
+
+.stego {
+	color: red;
+}
+
+a {
+	color: green;
+}
+
+a:hover {
+	color: white;
+}
